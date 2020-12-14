@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\bin\Debug\netcoreapp3.1\Test_Eight.exe
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\bin\Debug\netcoreapp3.1\Test_Eight.deps.json
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\bin\Debug\netcoreapp3.1\Test_Eight.runtimeconfig.json
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\bin\Debug\netcoreapp3.1\Test_Eight.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\bin\Debug\netcoreapp3.1\Test_Eight.dll
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\bin\Debug\netcoreapp3.1\Test_Eight.pdb
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\obj\Debug\netcoreapp3.1\Test_Eight.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\obj\Debug\netcoreapp3.1\Test_Eight.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\obj\Debug\netcoreapp3.1\Test_Eight.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\obj\Debug\netcoreapp3.1\Test_Eight.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\obj\Debug\netcoreapp3.1\Test_Eight.dll
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\obj\Debug\netcoreapp3.1\Test_Eight.pdb
+C:\Users\Роман\source\repos\Test_Eight\Test_Eight\obj\Debug\netcoreapp3.1\Test_Eight.genruntimeconfig.cache
